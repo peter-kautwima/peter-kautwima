@@ -20,7 +20,6 @@ At work we have been using react-redux (Typescript). At University I have been w
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -28,8 +27,8 @@ At work we have been using react-redux (Typescript). At University I have been w
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
-<img alt="Pete's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=peter-kautwima&theme=radical&show_icons=true&count_private=true&hide_border=true"><img alt="Duane's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=duanecilliers&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
+<img alt="Pete's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=peter-kautwima&theme=radical&show_icons=true&count_private=true&hide_border=true"><img alt="Pete's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=peter-kautwima&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
-<!-- [![Duane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter-kautwima&theme=radical&count_private=true&hide=php&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Pete's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter-kautwima&theme=radical&count_private=true&hide=php&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Duane's github activity graph](https://activity-graph.herokuapp.com/graph?username=peter-kautwima&hide_border=true&hide_title=true&theme=github&bg_color=141321&line=d83a7c&point=f8d847)
+![Pete's github activity graph](https://activity-graph.herokuapp.com/graph?username=peter-kautwima&hide_border=true&hide_title=true&theme=github&bg_color=141321&line=d83a7c&point=f8d847)
