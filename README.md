@@ -5,7 +5,7 @@ Currently working in tech and completing my BSc in Computer Science - Machine Le
 
 My goal is to become a unicorn but I have a way to go, hence I am getting practical experience in web development, I plan on becoming full-stack with the long-term goal of being an ML & AI specialist.
 
-At work we have been using react-redux (Typescript). At University I have been working in Node, HTML, CSS, Javascript, Python and C++. 
+At work we have been using react-redux (Typescript). At University I have been working in Node, HTML, CSS, Javascript, Python and C++. I am currently building a personal project with Next.js. 
 
 ## Languages and Tools
 <p>
