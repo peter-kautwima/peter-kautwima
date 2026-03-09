@@ -1,4 +1,4 @@
-# Kautwima-Kautwima-peetz
+# Peter Kautwima-peetz
 I am a front-end developer with nearly 4 years of coding experience.  
 EdTech entrepreneur with 10 + years in the B2B & B2C market's in America, Africa and Australia. 
 Currently working in tech and completing my BSc in Computer Science - Machine Learning & Artificial Intelligence.
